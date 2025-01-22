@@ -1,4 +1,4 @@
-# British-Airways-Reviews-Analysis
+# Introduction
 This dashboard provides an in depth analysis into British Airways performance. The analysis is based on a variety of key metrics, including overall rating, cabin staff service, entertainment, food and beverages, ground service, seat comfort, and value for money. By analyzing these metrics, we can gain valuable insights into how the airline performs across different service areas.
 
 The dashboard allows for further breakdown by variables such as seat class (economy, business, first class, premium economy) and traveler type (business, couple leisure, family leisure, solo leisure), as well as by months, continents, and aircraft groups (e.g., Boeing, Airbus, A320). Such an analysis is crucial for identifying patterns and trends that can help British Airways enhance customer satisfaction and tailor their services to meet diverse traveler needs.
